@@ -1,0 +1,12 @@
+sudo apt  install iptables
+
+#systemctl status iptables
+
+
+# nano /root/iptablescript.sh
+
+# chmod 700 /root/iptablescript.sh
+
+# chown root:root /root/iptablescript.sh
+
+# sh /root/iptablescript.sh 
