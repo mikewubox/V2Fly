@@ -8,3 +8,5 @@ sudo bash -c "$(curl -Ls  https://raw.githubusercontent.com/mikewubox/v2fly/mast
 
 
 #bash <(curl -Ls https://raw.githubusercontent.com/mikewubox/v2fly/master/iptables/iptables2280443.sh)
+
+#bash <(curl -Ss https://raw.githubusercontent.com/mikewubox/v2fly/master/iptables/iptables2280443.sh)
